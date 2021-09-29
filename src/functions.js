@@ -49,7 +49,10 @@ function createTemplate(products) {
         </div>
     `;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 38df4902cef967a80c0f653ef65be8f896b70d99
     productDiv.appendChild(productTemplate);
 }
 
